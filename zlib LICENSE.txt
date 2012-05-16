@@ -1,24 +1,3 @@
-#Excel Pour Réseaux Ramifiés#
-Macro Excel associée à un classeur mis en forme permettant 
-l'analyse hydraulique des réseaux ramifiés (pressions, vitesses dans les conduites)
-
-	
-##Utilisation##
-La source fournie représente la dernière version du code fourni 
-avec un classeur excel pré-formatté(*.xlsm) à télécharger.
-Vous devrez télécharger la dernière version stable de classeur.
-Disponible dans la section [Download][] du dépot.
-
-
-##Note##
-Vous devrez activer les macros (si demandé à l'ouverture du classeur).
-
-##Aide##
-L'aide est fourni à l'intérieur du classeur via un bouton 'Aide'.
-
-	
-##License## 
-Ce produit est sous license zLIB.
 Copyright (c) 2011 Roland Yonaba
 
 This software is provided 'as-is', without any express or implied
@@ -39,5 +18,3 @@ freely, subject to the following restrictions:
 
     3. This notice may not be removed or altered from any source
     distribution.
-
-[Download]: https://github.com/Yonaba/Excel-Pour-Reseaux-Ramifies/downloads
