@@ -16,8 +16,7 @@ Vous devrez activer les macros (si demandé à l'ouverture du classeur).
 ##Aide##
 L'aide est fourni à l'intérieur du classeur via un bouton 'Aide'.
 
-	
-##License## 
+##License##
 Ce produit est sous license zLIB.
 Copyright (c) 2011 Roland Yonaba
 
