@@ -1,20 +1,20 @@
-#Excel Pour Réseaux Ramifiés#
-Macro Excel associée à un classeur mis en forme permettant 
-l'analyse hydraulique des réseaux ramifiés (pressions, vitesses dans les conduites)
+#Excel Pour Rï¿½seaux Ramifiï¿½s#
+Macro Excel associï¿½e ï¿½ un classeur mis en forme permettant 
+l'analyse hydraulique des rï¿½seaux ramifiï¿½s (pressions, vitesses dans les conduites)
 
 	
 ##Utilisation##
-La source fournie représente la dernière version du code fourni 
-avec un classeur excel pré-formatté(*.xlsm) à télécharger.
-Vous devrez télécharger la dernière version stable de classeur.
-Disponible dans la section [Download][] du dépot.
+La source fournie reprï¿½sente la derniï¿½re version du code fourni 
+avec un classeur excel prï¿½-formattï¿½(*.xlsm) ï¿½ tï¿½lï¿½charger.
+Vous devrez tï¿½lï¿½charger la derniï¿½re version stable de classeur.
+Disponible dans la section [Download][] du dï¿½pot.
 
 
 ##Note##
-Vous devrez activer les macros (si demandé à l'ouverture du classeur).
+Vous devrez activer les macros (si demandï¿½ ï¿½ l'ouverture du classeur).
 
 ##Aide##
-L'aide est fourni à l'intérieur du classeur via un bouton 'Aide'.
+L'aide est fourni ï¿½ l'intï¿½rieur du classeur via un bouton 'Aide'.
 
 ##License##
 Ce produit est sous license zLIB.
@@ -40,3 +40,5 @@ Copyright (c) 2011 Roland Yonaba
     distribution.
 
 [Download]: https://github.com/Yonaba/Excel-Pour-Reseaux-Ramifies/downloads
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Yonaba/excel-pour-reseaux-ramifies/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
